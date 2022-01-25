@@ -1,0 +1,16 @@
+.title {
+    position: relative;
+    display: flex;
+    height: 40px;
+
+    p {
+        width: 100%;
+        position: absolute;
+        text-align: center;
+        z-index: -1;
+        font-weight: 600;
+        font-size: 28px;
+        margin: 0;
+        line-height: 40px;
+    }
+}
